@@ -1,12 +1,18 @@
 ---
 layout: base
-title: I'm [Your Full Name]
+title: I'm Ethan Wong
 hide: true
 ---
 
+<style>
+  body {
+    background-color: #3498db; /* Change this to your desired color */
+  }
+</style>
+
 ### Me and Team
 
-Hi! My name is [Your Full Name].
+Hi! My name is Ethan Wong.
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
@@ -17,8 +23,6 @@ Hi! My name is [Your Full Name].
 
 
 ## Links to Learning
-
-### Development Environment
 
 > Coding starts with tools, explore these tools and procedures with a click.
 
