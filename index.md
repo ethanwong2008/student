@@ -4,12 +4,6 @@ title: I'm Ethan Wong
 hide: true
 ---
 
-<style>
-  body {
-    background-color: #3498db; /* Change this to your desired color */
-  }
-</style>
-
 ### Me and Team
 
 Hi! My name is Ethan Wong.
@@ -48,6 +42,16 @@ Hi! My name is Ethan Wong.
 </a>
 <a href="{{site.baseurl}}/turtle" class="button small" style="background-color: #2A7DB1">
     <span style="color: #000000">Turtle</span>
+</a>
+
+<br>
+
+### Old Project
+
+> This is my website that I created last year in CSSE
+
+<a href="https://ethanwong2008.github.io/ethan_2027/">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="Website">
 </a>
 
 <br>
