@@ -50,8 +50,8 @@ Hi! My name is Ethan Wong.
 
 > This is my website that I created last year in CSSE
 
-<a href="https://ethanwong2008.github.io/ethan_2027/">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="Website">
+<a href="https://ethanwong2008.github.io/ethan_2027/" class="button small" style="background-color: #d34b4bff">
+    Website
 </a>
 
 <br>
