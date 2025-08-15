@@ -4,6 +4,15 @@ title: I'm Ethan Wong
 hide: true
 ---
 
+<style>
+  /* Hover effect for all buttons */
+  .button:hover {
+    filter: brightness(90%);
+    transform: scale(1.05);
+    transition: all 0.2s ease-in-out;
+  }
+</style>
+
 ### Me and Team
 
 Hi! My name is Ethan Wong.
