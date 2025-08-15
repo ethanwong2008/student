@@ -6,10 +6,11 @@ hide: true
 
 <style>
   /* Hover effect for all buttons */
+  .button {
+    transition: transform 0.2s ease-in-out;
+  }
   .button:hover {
-    filter: brightness(90%);
-    transform: scale(1.05);
-    transition: all 0.2s ease-in-out;
+    transform: scale(1.15);
   }
 </style>
 
