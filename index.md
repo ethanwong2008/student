@@ -48,6 +48,12 @@ Hi! My name is John.
 
 <br>
 
+### Past Projects
+> Past work from last year in CSSE
+<a href="https://ethanwong2008.github.io/ethan_2027/" class="button small" style="background-color: #2A7DB1">
+    <span style="color: #000000">Turtle</span>
+</a>
+
 <!-- Contact Section -->
 ### Get in Touch
 
