@@ -61,9 +61,7 @@ Flags are made using Wikipedia images
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Grew up here", "description": "California"},
-        {"flag": "b/b9/Flag_of_Oregon.svg", "greeting": "Culture", "description": "Chinese-Cantonese"},
-        {"flag": "b/be/Flag_of_England.svg", "greeting": "Alright mate", "description": "England - 2 years"},
-        {"flag": "e/ef/Flag_of_Hawaii.svg", "greeting": "Aloha", "description": "Hawaii - 2 years"},
+        {"flag": "e/ef/Flag_of_Hawaii.svg", "greeting": "Aloha", "description": "Hawaii - Favorite place to visit"},
     ];
 
     // 3a. Consider how to update style count for size of container
@@ -123,7 +121,7 @@ Everything for me revolves around family and culture
     <span style="color: #000000">Website</span>
 </a>
 
-<a href="https://ethanwong2008.github.io/ethan_2027/" class="button small" style="background-color: #2A7DB1">
+<a href="https://ethanwong2008.github.io/ethan_2027/rpg/dot3" class="button small" style="background-color: #2A7DB1">
     <span style="color: #000000">Game</span>
 </a>
 
