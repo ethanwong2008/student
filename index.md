@@ -1,12 +1,12 @@
 ---
 layout: base
-title: John Tab 
+title: Ethan Tab 
 hide: true
 ---
 
 ### Me and Team
 
-Hi! My name is John.
+Hi! My name is Ethan Wong.
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
@@ -47,13 +47,6 @@ Hi! My name is John.
 </a>
 
 <br>
-
-### Past Projects
-> Past work from last year in CSSE
-
-<a href="https://ethanwong2008.github.io/ethan_2027/" class="button small" style="background-color: #2A7DB1">
-    <span style="color: #000000">Website</span>
-</a>
 
 <!-- Contact Section -->
 ### Get in Touch

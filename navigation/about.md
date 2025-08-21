@@ -60,8 +60,8 @@ Flags are made using Wikipedia images
     // 2. Define a JavaScript object for our http source and our data rows for the Living in the World grid
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
-        {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - forever"},
-        {"flag": "b/b9/Flag_of_Oregon.svg", "greeting": "Hi", "description": "Oregon - 9 years"},
+        {"flag": "0/01/Flag_of_California.svg", "greeting": "Grew up here", "description": "California"},
+        {"flag": "b/b9/Flag_of_Oregon.svg", "greeting": "Culture", "description": "Chinese-Cantonese"},
         {"flag": "b/be/Flag_of_England.svg", "greeting": "Alright mate", "description": "England - 2 years"},
         {"flag": "e/ef/Flag_of_Hawaii.svg", "greeting": "Aloha", "description": "Hawaii - 2 years"},
     ];
@@ -101,23 +101,31 @@ Flags are made using Wikipedia images
 
 Here is what I did at those places
 
-- 🏫 Lots of Elementary Schools in Tucson, LA, Honolulu, and Glendale (CA)
-- 🏫 Middle and High School in Glendale (CA), Hoover High graduated '77
-- 🎓 Glendale CA Community College, UCLA Extension, LA Wilshire Computer Tech School '77 to '79
-- ⛪ England, London Missionary for Church of Jesus Christ of Latter-day Saints '79 to '81
-- 💼 Culver City, Glendale CA founder at Ashton-Tate, original PC's dBase 2 and 3 '82 to '87
-- 🎓 Eugene Oregon Undergraduate CompSci Degree at University of Oregon (Go Ducks!) '89 to '91
-- 💼 Eugene Oregon, founder and owner @ Microniche `88, Point Control CAD CAM developer '91 to '96
-- 🏢 San Diego CA Qualcomm, Satellite Comm and 1st Mobile OS (BREW) '96 to '19
-- 👨‍🏫 San Diego CA Teacher of Computer Science @ Del Norte High School San Diego '19 to present
+- Class of 2027 at Del Norte High School
+- I enjoy to play and watch baseball
+- I have 5 members in my family: My dad, mom, sister, brother, and me.
+- My favorite place to visit is London(want to visit Japan)
+- My favorite subject is math
+- My hobbies are playing sports, videogames, hanging out with friends, and reading
 
 ### Culture, Family, and Fun
 
-Everything for me, as for many others, revolves around family and faith.
+Everything for me revolves around family and culture
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+- My parents push my siblings and I to be the best we can be. We were taught to put all our effort in everything we do.
+- Most of my family lives in Los Angeles and San Francsico. My family is chinese, and we are mainly cantonese speakers.
+
+### Past Projects/Experience
+- This is my past projects. I took CSSE sophmore year so I have a good understanding of Javascript, HTML, markdown, etc.
+- Over the summer I took a online course on python. I have a little experience in coding with python.
+
+<a href="https://ethanwong2008.github.io/ethan_2027/" class="button small" style="background-color: #2A7DB1">
+    <span style="color: #000000">Website</span>
+</a>
+
+<a href="https://ethanwong2008.github.io/ethan_2027/" class="button small" style="background-color: #2A7DB1">
+    <span style="color: #000000">Game</span>
+</a>
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
