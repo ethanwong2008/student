@@ -1,5 +1,6 @@
 ---
 # YML definition of metadata for file, used by Git Pages
+
 layout: base
 title: Background with Object
 description: Use JavaScript to have an in motion background.
