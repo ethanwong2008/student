@@ -54,7 +54,7 @@ permalink: /background
     class Background extends GameObject {
       constructor(image, gameWorld) {
         // Fill entire canvas
-        super(image, gameWorld.width, gameWorld.height, 0, 0, 0.1);
+        super(image, gameWorld.width, gameWorld.height, 0, 0, 0.5);
       }
       update() {
         this.x = (this.x - this.speed) % this.width;
@@ -84,7 +84,7 @@ permalink: /background
     * the game looop is inside
     */
     class GameWorld {
-      static gameSpeed = 5;
+      static gameSpeed = 20;
       //images enter world
       constructor(backgroundImg, spriteImg) {
         this.canvas = document.getElementById("world");
